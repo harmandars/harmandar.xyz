@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Süleyman Harmandar</title>
+	<link>http://example.org/</link>
+	<description>Recent content on Süleyman Harmandar</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>tr-TR</language>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>First Post</title>
+		<link>http://example.org/about/</link>
+		<pubDate>Tue, 02 Aug 2022 22:43:02 +0300</pubDate>
+		
+		<guid>http://example.org/about/</guid>
+		<description>&lt;p&gt;Hey! It&amp;rsquo;s Suleyman and that&amp;rsquo;s my personal website to share my knowledges about Cyber Security, GNU/Linux and tech news. If you want to know what I know about those you can read many stuff in here.You contact me via my E-Mail social medias.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E-Mail: &lt;a href=&#34;mailto:suleymanharmandar@icloud.com&#34;&gt;suleymanharmandar@icloud.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Reddit: Beerahoii&lt;/li&gt;
+&lt;li&gt;Instagram: @harmandar__&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
